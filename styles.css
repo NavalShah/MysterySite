@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font: size 6px;
+    color:"blue";
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+h3  {
+    color: rgb(87, 156, 224);
+    font-weight: bold;
+}
+body {
+    background-image:url(https://e0.pxfuel.com/wallpapers/520/1013/desktop-wallpaper-cool-landscape-night-minimal-art-laptop-minimalist-and-background-minimalist-laptop.jpg);
+  }
+#Title {
+    font-size: 30px;
+    font-weight: bold;
+}
