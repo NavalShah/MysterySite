@@ -8,7 +8,7 @@ function wikipediaSite(){
     location.href = "http://" + wikipediaList[Math.floor (Math.random()*wikipediaList.length)];
     return location.href;
 }
-function wikipediaSite(){
+function educationSite(){
     var educationList = ["https://www.ixl.com/","https://www.khanacademy.org/","https://quizlet.com","https://kids.nationalgeographic.com/","https://www.coolmathgames.com/"];
     location.href = "http://" + educationList[Math.floor (Math.random()*educationList.length)];
     return location.href;
