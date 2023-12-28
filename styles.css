@@ -20,7 +20,17 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+#info {
+    font-size: 35px;
+    font-family:monospace;
+}
 #Title {
     font-size: 30px;
     font-weight: bold;
+}
+
+#games,#education,#wiki {
+    font-size:30px;
+    margin: 10px;
+    background-color: aquamarine;
 }
